@@ -1,4 +1,4 @@
-## <img src="https://www.animatedimages.org/data/media/707/animated-welcome-image-0033.gif" width="100px" />    Hello!
+## <img src="https://www.animatedimages.org/data/media/707/animated-welcome-image-0167.gif" width="120px" />
 
 <p align="center" >
   <samp>
@@ -24,11 +24,12 @@ SQL
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/stats.png" width="35px" /> Some stats
 <p align="right">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=lucas-marchi&theme=tokyonight&show_icons=true" />
-<img  float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-marchi&theme=tokyonight&show_icons=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=lucas-marchi&theme=buefy" />
+<img  float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-marchi&theme=buefy" />
 </p>
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="50px" /> How to reach me: ...
+<!--START_SECTION:waka-->
 <p align="center">
   <a href="https://twitter.com/lucasmarchi20">
     <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/twitter.svg" height="35px" style="margin: 5px;" />
@@ -46,3 +47,4 @@ SQL
     <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/gmail.png" height="30px" style="margin: 5px;" />
   </a>
 </p>
+<!--END_SECTION:waka-->
