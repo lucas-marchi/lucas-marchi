@@ -1,5 +1,5 @@
 ## <img src="https://www.animatedimages.org/data/media/707/animated-welcome-image-0167.gif" width="120px" />
-
+[![linkein](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/lucas-bedin-marchi-56545a201/)](https://www.linkedin.com/in/lucas-bedin-marchi-56545a201/) [![gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasmarchi20@gmail.com)](mailto:lucasmarchi20@gmail.com)
 <p align="center" >
   <samp>
     My name is <em>Lucas</em>. I'm a student and dream of being a fullstack developer... 
@@ -22,29 +22,11 @@ SQL
 ```
 <!--END_SECTION:waka-->
 
-### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/stats.png" width="35px" /> Some stats
-<p align="right">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=lucas-marchi&theme=buefy" />
-<img  float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-marchi&theme=buefy" />
+<p align="center" >
+  <samp>
+    GitHub Stats
+  </samp>
 </p>
-
-### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="50px" /> How to reach me: ...
-<!--START_SECTION:waka-->
-<p align="center">
-  <a href="https://twitter.com/lucasmarchi20">
-    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/twitter.svg" height="35px" style="margin: 5px;" />
-  </a>
-  <a href="https://www.instagram.com/lucas_bmarchi/">
-    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/instagram.webp" height="35px" style="margin: 5px;" />
-  </a>
-  <a href="https://www.linkedin.com/in/lucas-bedin-marchi-56545a201/">
-    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/linkedin.webp" height="35px" style="margin: 5px;" />
-  </a>
-  <a href="https://discord.gg/hs3mPq2Y">
-    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/discord.png" height="35px" style="margin: 5px;" />
-  </a>
-  <a href="mailto:lucasmarchi20@gmail.com">
-    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/gmail.png" height="30px" style="margin: 5px;" />
-  </a>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=lucas-marchi&show_icons=true&title_color=fff&icon_color=6565fc&text_color=9f9f9f&bg_color=151515" alt="Chandan's Public Github Stats">
+<img  float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-marchi&theme=show_icons=true&title_color=fff&icon_color=109eff&text_color=9f9f9f&bg_color=151515" alt="Chandan's Public Github Stats">
 </p>
-<!--END_SECTION:waka-->
