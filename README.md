@@ -1,4 +1,8 @@
-## <img src="https://www.animatedimages.org/data/media/707/animated-welcome-image-0167.gif" width="120px" />
+<div align="center">
+
+## <img src="https://www.animatedimages.org/data/media/707/animated-welcome-image-0167.gif" width="160px" />
+ 
+ </div>
 <div align="left">
  
 [![linkein](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/lucas-bedin-marchi-56545a201/)](https://www.linkedin.com/in/lucas-bedin-marchi-56545a201/) [![gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasmarchi20@gmail.com)](mailto:lucasmarchi20@gmail.com)
