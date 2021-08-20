@@ -1,13 +1,11 @@
-<div align="center">
-
-## <img src="https://www.animatedimages.org/data/media/707/animated-welcome-image-0167.gif" width="160px" />
- 
- </div>
 <div align="left">
  
-[![linkein](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/lucas-bedin-marchi-56545a201/)](https://www.linkedin.com/in/lucas-bedin-marchi-56545a201/) [![gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasmarchi20@gmail.com)](mailto:lucasmarchi20@gmail.com)
-  
-</div>
+[![linkein](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/lucas-bedin-marchi-56545a201/)](https://www.linkedin.com/in/lucas-bedin-marchi-56545a201/) [![gmail](https://img.shields.io/badge/-Gmail-black?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasmarchi20@gmail.com)](mailto:lucasmarchi20@gmail.com)
+
+```
+welcome
+```
+
 <p align="center" >
   <samp>
     My name is <em>Lucas</em>. I'm a student and dream of being a fullstack developer... 
@@ -15,26 +13,30 @@
   </samp>
 </p>
 
-<!--START_SECTION:waka-->
-```text
-Favorite Languages
-
-C
-C#
-Java
-Python
-HTML5
-CSS3
-JavaScript
-SQL
 ```
-<!--END_SECTION:waka-->
+favorite languages
+```
 
-<p align="center" >
-  <samp>
-    GitHub Stats
-  </samp>
-</p>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=lucas-marchi&show_icons=true&title_color=fff&icon_color=6565fc&text_color=9f9f9f&bg_color=151515" alt="Chandan's Public Github Stats">
+<div align="center">
+ 
+![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=C)
+![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)
+![CSharp](https://img.shields.io/badge/-CSharp-000000?style=for-the-badge&logo=CSharp)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3)
+![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=Java&logoColor=007396)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=MySQL)
+ 
+</div>
+
+```
+github stats
+```
+
+<div align="center">
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=lucas-marchi&show_icons=true&title_color=fff&icon_color=000000&text_color=9f9f9f&bg_color=151515" alt="Chandan's Public Github Stats">
 <img  float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-marchi&theme=show_icons=true&title_color=fff&icon_color=109eff&text_color=9f9f9f&bg_color=151515" alt="Chandan's Public Github Stats">
-</p>
+
+</div>
