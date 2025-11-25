@@ -66,7 +66,8 @@ I work with a variety of tools to build robust applications. Here is my current 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucas-marchi&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucas-marchi&theme=dark&hide_border=true&background=151515&ring=79ff97&currStreakLabel=79ff97" alt="Lucas Marchi Streak" />
+  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-marchi&layout=compact&langs_count=7&theme=dark&hide_border=true&bg_color=151515&title_color=fff&icon_color=79ff97" />
 </div>
 
