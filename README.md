@@ -1,45 +1,77 @@
-<div align="left">
- 
-[![linkein](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/lucas-bedin-marchi-56545a201/)](https://www.linkedin.com/in/lucas-bedin-marchi/) [![gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasmarchi20@gmail.com)](mailto:lucasmarchi20@gmail.com)
-
 <div align="center">
- 
-```
-welcome
-```
-
-
-<p align="center" >
-  <samp>
-    My name is <em>Lucas</em>. I'm a student and dream of being a fullstack developer... 
-  <br/> I'm always looking for new knowledge in the technology area.
-  </samp>
-</p>
-
-```
-favorite languages
-```
-
-<div align="center">
- 
-![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=C)
-![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)
-![CSharp](https://img.shields.io/badge/-CSharp-000000?style=for-the-badge&logo=CSharp)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3)
-![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=Java&logoColor=007396)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=MySQL)
- 
+  <img height="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
 </div>
 
-```
-github stats
-```
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/lucas-bedin-marchi/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
+  <a href="mailto:lucasmarchi20@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+</div>
+
+###
+
+<h1 align="center">Hi there, I'm Lucas Marchi! 👋</h1>
+
+<p align="center">
+  <em>Computer Scientist & Fullstack Developer</em>
+</p>
+
+<p align="center">
+  I am a Computer Science graduate from <b>UTFPR</b> with a passion for building clean, efficient, and user-friendly solutions. 
+  <br>
+  My background blends <b>Fullstack Development</b> with <b>UX/UI Design</b> principles, allowing me to bridge the gap between functionality and aesthetics.
+</p>
+
+<br>
+
+### 🛠️ Technologies & Tools
+
+I work with a variety of tools to build robust applications. Here is my current stack based on my professional experience and projects:
 
 <div align="center">
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=lucas-marchi&show_icons=true&title_color=fff&icon_color=000000&text_color=9f9f9f&bg_color=151515" alt="Chandan's Public Github Stats">
-<img  float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-marchi&theme=show_icons=true&title_color=fff&icon_color=109eff&text_color=9f9f9f&bg_color=151515" alt="Chandan's Public Github Stats">
+**Frontend & Mobile**
+<br>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
 
+**Backend & Database**
+<br>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
+
+**Tools, Design & DevOps**
+<br>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+<img src="https://img.shields.io/badge/Clean_Architecture-000000?style=for-the-badge&logo=hackerone&logoColor=white">
+
+</div>
+
+<br>
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucas-marchi&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-marchi&layout=compact&langs_count=7&theme=dark&hide_border=true&bg_color=151515&title_color=fff&icon_color=79ff97" />
+</div>
+
+<br>
+
+<div align="center">
+  <sub>Let's connect! I'm always open to discussing new projects and opportunities.</sub>
 </div>
