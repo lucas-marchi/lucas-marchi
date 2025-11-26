@@ -66,10 +66,8 @@ I work with a variety of tools to build robust applications. Here is my current 
 ### 📊 GitHub Stats
 
 <div align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=lucas-marchi)](https://git.io/streak-stats)
+  <img src="https://raw.githubusercontent.com/lucas-marchi/lucas-marchi/main/github-metrics.svg" alt="Metrics" width="100%">
 </div>
-
-<br>
 
 <div align="center">
   <sub>Let's connect! I'm always open to discussing new projects and opportunities.</sub>
